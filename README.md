@@ -1,5 +1,7 @@
+# System-Programming-2022-SIC/XE-assembler
+Ajou Univ. System Programming (SCE214) - SIC/XE Machine Practice
+
 # 시스템 프로그래밍 2022
-Ajou Univ. SystemProgramming - SIC/XE assembly code practice
 
 # 기본적인 뼈대 코드들을 올림
 - 교재 코드
